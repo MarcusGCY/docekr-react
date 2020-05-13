@@ -17,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          live update of react"
+          live update of react
         </a>
       </header>
     </div>
